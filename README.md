@@ -395,15 +395,24 @@ GROUP BY nama_aset;
 
 # 6. Screenshot Hasil Implementasi dan Query
 
-Screenshot yang harus dikumpulkan:
+## Membuat Database
 
-1. Database berhasil dibuat.
-2. Tabel users berhasil dibuat.
-3. Tabel kategori berhasil dibuat.
-4. Tabel lokasi berhasil dibuat.
-5. Tabel aset berhasil dibuat.
-6. Tabel peminjaman berhasil dibuat.
-7. Tabel perawatan berhasil dibuat.
+![Database](buatdatabase.png)
+
+---
+
+## Membuat Tabel User Sampai Aset
+
+![Table](buattabeluser-aset.png)
+
+---
+
+## Membuat Tabel Peminjaman Dan Perawatan
+
+![Table](peminjamanperawatan.png)
+
+---
+
 8. Hasil input data (INSERT).
 9. Hasil Query Operasional 1–5.
 10. Hasil Query Laporan dan Analisis 6–10.
