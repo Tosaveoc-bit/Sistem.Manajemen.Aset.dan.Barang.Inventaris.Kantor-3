@@ -470,3 +470,7 @@ Query11
 ---
 
 ## Table Relasi
+
+![Relasi](tabelrelasiphpmyadmin.png)
+
+---
