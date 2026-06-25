@@ -413,7 +413,14 @@ GROUP BY nama_aset;
 
 ---
 
-8. Hasil input data (INSERT).
+## Isi Tabel
+
+![Table](tableuser-aset.png)
+
+![Table](tabelpeminjamanperawatan.png)
+
+---
+
 9. Hasil Query Operasional 1–5.
 10. Hasil Query Laporan dan Analisis 6–10.
 11. Tampilan relasi tabel pada phpMyAdmin (Designer) atau DBMS yang digunakan.
