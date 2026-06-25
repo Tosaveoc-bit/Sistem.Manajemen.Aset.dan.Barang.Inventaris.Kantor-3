@@ -421,6 +421,52 @@ GROUP BY nama_aset;
 
 ---
 
-9. Hasil Query Operasional 1–5.
-10. Hasil Query Laporan dan Analisis 6–10.
-11. Tampilan relasi tabel pada phpMyAdmin (Designer) atau DBMS yang digunakan.
+## QUERY:
+
+Query1
+
+![Query](query1.png)
+
+Query2
+
+![Query](query2.png)
+
+Query3
+
+![Query](query3.png)
+
+Query4
+
+![Query](quey4.png)
+
+Query5
+
+![Query](query5.png)
+
+Query6
+
+![Query](query6.png)
+
+Query7
+
+![Query](query7.png)
+
+Query8
+
+![Query](query8.png)
+
+Query9
+
+![Query](query9.png)
+
+Query10
+
+![Query](query10.png)
+
+Query11
+
+![Query](query11.png)
+
+---
+
+## Table Relasi
