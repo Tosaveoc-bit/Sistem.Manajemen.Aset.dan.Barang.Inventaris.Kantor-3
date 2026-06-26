@@ -188,7 +188,8 @@ VALUES
 ('Fakhrul Aqasya','farul','fapul2231','Petugas'),
 ('Hazza Syahfitra','hazza','hazza7783','Pegawai'),
 ('Muhammad Rizuar','rizuar','Zar12345','Pegawai'),
-('Agus Saputra','agus','gusgus33','Petugas');
+('Agus Saputra','agus','gusgus33','Petugas'),
+('Kelompok','2','kel2222222','Pimpinan');
 ```
 
 ---
